@@ -18,17 +18,7 @@ while num<= Usernum:
         
     num = num+1 
     
-while num>10:
-    
-    if num == 1:
-        print()
-    else:
-        print()
-        
-    print()
-    
-print()
-    
+
     
     
     
